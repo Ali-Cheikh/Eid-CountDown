@@ -10,6 +10,9 @@ body {
     justify-content: center;
     font-family: 'Poppins', sans-serif;
     background: #191919;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     overflow: hidden;
 }
 
@@ -26,13 +29,13 @@ h2 span{
 }
 .year{
     font-size: 4rem;
-    color: crimson;
+    color: rgb(20, 220, 63);
     font-weight: bold;
 }
 
 .countdown{
     margin: 30px;
-    background: rgba(0, 0, 0,.3);
+    background: rgba(9, 3, 61, 0.74);
     width: 100%;
     color: wheat;
     height: 120px;
