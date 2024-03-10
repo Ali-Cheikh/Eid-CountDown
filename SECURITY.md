@@ -10,4 +10,4 @@ The app is an online app so it wont work unless there is internet and the app is
 ## Reporting a Vulnerability
 
 Geyser is safe to a point.
-You need to be careful from the Ads
+```You need to be careful from the Ads
