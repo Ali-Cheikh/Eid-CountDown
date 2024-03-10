@@ -1,5 +1,5 @@
 
-# Eid Countdown
+# Eid Countdown ![GitHub watchers](https://img.shields.io/github/watchers/Ali-Cheikh/Eid-CountDown)
 
 <img src="bgreadme.png" alt="countdown for eid " width="100%">
 A web-app counter for Eid al fitr 2024
