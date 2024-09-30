@@ -10,9 +10,5 @@ A web-app counter for Eid al fitr 2024
 <hr>
 <h3>
 
-Immediate [Start](/_Eid_Countdown_.apk) for <ins>Android Phone</ins> **!!APk-File!!**
-</h3>
-
-## 🚀Check ![Website](https://img.shields.io/website?url=https%3A%2F%2F3eid.netlify.app%2F)
-
+The website is up to date but the app is not
 website [link👋](https://3eid.netlify.app)
